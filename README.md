@@ -6,4 +6,5 @@ libusb-1.0, curl
 command to compile:
 
 gcc zmake.c -o zmake
+
 ./zmake IN .c files dir
